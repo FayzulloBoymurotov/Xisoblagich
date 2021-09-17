@@ -1,0 +1,109 @@
+/* HOMEWORK */
+body {
+    background-color: lightblue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+    max-width: 1140px;
+    padding: 0 15px;
+    margin: 0 auto;
+}
+
+.heading {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    padding-top: 100px;
+}
+
+img {
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    padding-left: 20px;
+}
+
+.form {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.text {
+    font-size: 19px;
+    font-weight: 500;
+    margin-right: 50px;
+}
+
+.time {
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+
+.run {
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+.bicycle {
+    text-align: center;
+}
+
+.car {
+    text-align: center;
+}
+
+.plane {
+    text-align: center;
+}
+
+
+.b12 {
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+
+.b13 {
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+
+.b14 {
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+
+
+.input {
+    margin-right: 40px;
+    padding: 6px;
+}
+
+.button {
+    background-color: #bdc3c7;
+    border: 1px solid #bdc3c7;
+    padding: 6px;
+}
+
+.cards {
+    padding-top: 70px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.card {
+    padding: 40px 70px;
+    border-radius: 5px;
+    background-color: #fff;
+    border: 1px solid black;
+    width: 90px;
+    height: 150px;
+    display: grid;
+}
